@@ -1,3 +1,3 @@
 export interface GlobalHeader {
-  type?: "quarter" | "iteration";
+  type?: 'quarter' | 'iteration'
 }

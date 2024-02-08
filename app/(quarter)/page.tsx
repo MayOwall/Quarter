@@ -1,4 +1,4 @@
-import { GlobalHeader } from "components";
+import { GlobalHeader } from 'components';
 
 export default function QuarterPage() {
   return (
