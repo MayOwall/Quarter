@@ -1,20 +1,20 @@
-import Link from "next/link";
-import { GlobalHeader } from "types";
+import Link from 'next/link';
+import { GlobalHeader } from 'types';
 
 const CONSTANTS = {
   quarter: {
-    title: "QUARTER",
-    side: "반복 설정",
-    href: "/iteration",
+    title: 'QUARTER',
+    side: '반복 설정',
+    href: '/iteration',
   },
   iteration: {
-    title: "반복 설정",
-    side: "메인으로",
-    href: "/",
+    title: '반복 설정',
+    side: '메인으로',
+    href: '/',
   },
 };
 
-export default function GlobalHeader({ type = "quarter" }: GlobalHeader) {
+export default function GlobalHeader({ type = 'quarter' }: GlobalHeader) {
   return (
     <header>
       <ul className="flex items-baseline gap-4">

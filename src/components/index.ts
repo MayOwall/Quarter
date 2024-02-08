@@ -1,3 +1,3 @@
-import GlobalHeader from "./GlobalHeader/GlobalHeader";
+import GlobalHeader from './GlobalHeader/GlobalHeader';
 
 export { GlobalHeader };
