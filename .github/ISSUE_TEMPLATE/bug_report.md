@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: "버그 제보 \U0001F41E"
+title: ''
+labels: bug
+assignees: MayOwall
+
+---
+
 ## 버그 설명
 
 ### 예상 동작
