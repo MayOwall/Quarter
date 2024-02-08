@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
-import "./globals.css";
+import "../src/styles/globals.css";
 
 export const metadata: Metadata = {
   title: "쿼터 Quarter",

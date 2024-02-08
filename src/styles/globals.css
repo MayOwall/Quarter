@@ -16,3 +16,12 @@
     @apply text-xs font-normal;
   }
 }
+
+html {
+  @apply w-full h-full flex justify-center items-center;
+}
+
+body {
+  @apply w-full max-w-screen-lg;
+  border: 1px solid;
+}
