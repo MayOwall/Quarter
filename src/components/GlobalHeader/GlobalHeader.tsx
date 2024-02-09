@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { GlobalHeader } from 'types';
+import type { GlobalHeader } from 'types';
 
 const CONSTANTS = {
   quarter: {
